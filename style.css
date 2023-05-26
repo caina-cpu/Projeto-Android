@@ -88,7 +88,7 @@ header > p {
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
     text-shadow: 2px 2px 0px black;
-    margin-bottom: 20px;
+    padding-bottom: 30px;
 }
 
 nav {
